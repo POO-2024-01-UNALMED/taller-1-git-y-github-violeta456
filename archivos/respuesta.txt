@@ -1,0 +1,1 @@
+Si ocurrió un problema puesto que, el punto anterior solicitaba crear una carpeta vacía y hacer un push; sin embargo, no es posible crear un commit con una carpeta vacía
