@@ -1,3 +1,6 @@
 Violeta Gomez Arteaga
 19
 Comprender conceptos fundamentales que me ayuden en mi aprendizaje y ponerlos en práctica
+La carpeta ya no esta vacia por lo que ahora si representa un cambio para github  
+
+Porque puede llegar a generar un conflicto en github que a pesar de que se puede arreglar podría generar retrasos en un proyecto  
